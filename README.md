@@ -42,10 +42,6 @@ Youtube: <a href="https://www.youtube.com/watch?v=ny6n667tthA" target="_blank" r
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-Nguồn tham khảo chính của web là https://www.vietnamairlines.com/
+- Nguồn tham khảo chính của web là https://www.vietnamairlines.com/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  buianhkc11@gmaill.com
-</p>
-
+- 📫 How to reach me **buianhkc112004@gmail.com**
