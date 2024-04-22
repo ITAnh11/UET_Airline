@@ -3,7 +3,7 @@
 <h3 align="center">Bài tập lớn môn Cơ sở dữ liệu</h3>
 
 ## Mục đích profject:
-- Luyện tập tương tác với cơ dữ liệu, thực hành các kiến thức được học cảu bộ môn Cơ sở dữ liệu
+- Luyện tập tương tác với cơ dữ liệu, thực hành các kiến thức được học của bộ môn Cơ sở dữ liệu
 - Đề chọn: Trang web đặt vé máy bay online. Trang web tham khảo 👉 <a href="https://www.vietnamairlines.com" target="_blank" rel="noreferrer">VietName Airline</a>
 
 ## Các chức năng chính của trang web:
