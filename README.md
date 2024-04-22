@@ -2,9 +2,25 @@
 
 <h3 align="center">Bài tập lớn môn Cơ sở dữ liệu</h3>
 
-## Mục đích profject
+## Mục đích profject:
 - Luyện tập tương tác với cơ dữ liệu, thực hành các kiến thức được học cảu bộ môn Cơ sở dữ liệu
 - Đề chọn: Trang web đặt vé máy bay online. Trang web tham khảo 👉 <a href="https://www.vietnamairlines.com" target="_blank" rel="noreferrer">VietName Airline</a>
+
+## Các chức năng chính của trang web:
+- Tạo tài khoản, đăng nhập cơ bản
+- Ở trang homepage hiện các chuyến bay nổi bật (được đặt nhiều nhất)
+- Chức năng tìm kiếm các chuyến bay theo điểm đến, điểm đi, thời gian, giá vé
+- Sau khi chọn được vé chuyển đến trang điền thông tin hành khách
+- Tiếp tục chọn ghế ngồi
+- Chọn ghế ngồi xong, người dùng sẽ được chuyển đến trang cá nhân để xem các vé đã đặt
+
+## Mong muốn cải thiện
+- Có thêm chức thanh toán
+- Thiết kế database chưa tốt
+- Trang web cần được tối ưu hơn
+
+## Link demo trang web 👇👇👇
+Youtube: <a href="https://www.youtube.com/watch?v=ny6n667tthA" target="_blank" rel="noreferrer">video demo</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
